@@ -45,7 +45,7 @@ npm install
 
 #### Langkah 3: Jalankan Bot
 ```sh
-node index.js
+node index.js / npm start
 ```
 
 ### Penggunaan
