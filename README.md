@@ -33,7 +33,8 @@ Bot ini dirancang untuk berinteraksi dengan.....................................
 
 6. **Tangkap Data yang Diperlukan**
     - Cari `fetch/xhr` di aktivitas jaringan.
-    - Simpan nilai `x-install-uuid` dan `initData`.
+    - klik kanan kemudian copy as fetch
+    - cari `x-install-uuid` dan `initData`.
     - Simpan di `loot.txt` dengan format: `initData|x-install-uuid`.
 
 #### Langkah 2: Kloning Repository dan Instal Dependensi
